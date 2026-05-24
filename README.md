@@ -27,3 +27,7 @@ docker-compose up -d
 # Or build and run with Docker
 docker build -t task-manager-api .
 docker run -p 8000:8000 task-manager-api
+
+Here is the images of backend<img width="1853" height="670" alt="Screenshot 2026-05-24 195944" src="https://github.com/user-attachments/assets/57c12bd4-97a7-4af0-9dd4-55206a62e4d6" <img width="1140" height="774" alt="Screenshot 2026-05-24 195956" src="https://github.com/user-attachments/assets/b6b9e292-1d0d-4c91-abdc-78baaaa10b3f" />
+
+/>
